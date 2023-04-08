@@ -1,4 +1,4 @@
-# [Poru Music](https://discord.com/api/oauth2/authorize?client_id=987704017410985985&permissions=8&scope=applications.commands%20bot)
+# [Poru Music](https://discord.com/api/oauth2/authorize?hiclient_id=987704017410985985&permissions=8&scope=applications.commands%20bot)
 
 A Music Bot Template based on [Poru](https://npmjs.com/poru) lavalink client ❤️
 
